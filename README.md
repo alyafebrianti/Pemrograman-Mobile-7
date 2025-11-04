@@ -16,7 +16,10 @@
 
 <img width="950" height="162" alt="UI alya" src="https://github.com/user-attachments/assets/6e9f1bf6-371c-413c-bb79-265a545af249" />
 
-## 
+## Timeline ClickUp
+<img width="380" height="275" alt="timeline ClickUp" src="https://github.com/user-attachments/assets/018517d8-faf4-4439-87f5-e8fbab868b4a" />
+
+
 
 
 
