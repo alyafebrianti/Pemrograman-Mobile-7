@@ -19,6 +19,8 @@
 # Timeline ClickUp
 <img width="380" height="275" alt="timeline ClickUp" src="https://github.com/user-attachments/assets/018517d8-faf4-4439-87f5-e8fbab868b4a" />
 
+# Link YouTube UX
+https://youtu.be/jl-NL8vMkk0?si=k7Sap9S6TXYH6RNn
 
 
 
